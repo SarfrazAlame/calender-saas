@@ -1,3 +1,4 @@
+import Navbar from "@/components/Navbar"
 import requiredUser from "@/lib/hooks"
 import { redirect } from "next/navigation"
 
